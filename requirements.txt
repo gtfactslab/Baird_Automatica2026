@@ -1,0 +1,6 @@
+npinterval @ git+https://github.com/gtfactslab/npinterval.git
+jax
+matplotlib
+numpy < 2.0.0
+scipy < 16.0.0
+stlpy_copulas @ git+ssh://git@github.com/lukeb2014/stlpy-probabilistic.git
